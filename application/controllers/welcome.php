@@ -27,8 +27,8 @@ class welcome extends CI_Controller {
             'charset'   => 'utf-8',
             'protocol'  => 'smtp',
             'smtp_host' => 'smtp.gmail.com',
-            'smtp_user' => 'guehasim@gmail.com',  // Email gmail
-            'smtp_pass'   => 'scfvqygtfmjnvrxk',  // Password gmail
+            'smtp_user' => 'example@gmail.com',  // Email gmail
+            'smtp_pass'   => 'xxx',  // Password yang di tutorial di awal
             'smtp_crypto' => 'ssl',
             'smtp_port'   => 465,
             'crlf'    => "\r\n",
